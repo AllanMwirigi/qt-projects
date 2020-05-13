@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>pics/380527.jpg</file>
+        <file>pics/dbgpause.png</file>
+        <file>pics/pause.png</file>
+        <file>pics/play.png</file>
+        <file>pics/playlist.png</file>
+        <file>pics/prev.png</file>
+        <file>pics/stop.png</file>
+        <file>pics/next.png</file>
+    </qresource>
+</RCC>
